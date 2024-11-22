@@ -1,0 +1,11 @@
+.playlists {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.playlists__item {
+    color: aqua;
+    padding: 5px;
+    border: 1px solid aqua;
+}
